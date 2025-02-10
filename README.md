@@ -1,4 +1,4 @@
-# Character-Chat: 虚拟角色复活计划
+# Character-Chat: 虚拟角色聊天Bot搭建指南
 
 > 让 AI 扮演你喜爱的虚拟角色，满足自己的一切愿望！
 
