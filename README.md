@@ -36,7 +36,7 @@
     *   **服务器或电脑**：满足以下最低配置：
         *   CPU >= 2 Core
         *   RAM >= 4 GiB
-    *   **推荐**：Windows Docker（本文档提供详细教程）。
+    *   **推荐**：Windows Docker（官方文档提供详细教程）。
 
 ### 二、安装与配置 Dify
 
