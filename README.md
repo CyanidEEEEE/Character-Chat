@@ -1,9 +1,5 @@
 # Character-Chat: 虚拟角色复活计划
 
-[![GitHub Stars](https://img.shields.io/github/stars/你的用户名/Character-Chat.svg?style=flat-square&label=Stars&logo=github)](https://github.com/你的用户名/Character-Chat)
-[![GitHub Forks](https://img.shields.io/github/forks/你的用户名/Character-Chat.svg?style=flat-square&label=Forks&logo=github)](https://github.com/你的用户名/Character-Chat)
-[![License](https://img.shields.io/github/license/你的用户名/Character-Chat.svg?style=flat-square)](https://github.com/你的用户名/Character-Chat/blob/main/LICENSE)
-
 > 让 AI 扮演你喜爱的虚拟角色，满足自己的一切愿望！
 
 **项目简介**
