@@ -118,6 +118,12 @@
 
 现在，你可以在 Telegram 上与你的虚拟角色聊天了！
 
+### 六、配置其他平台的Bot
+
+**推荐使用**：
+    *   [(https://github.com/RockChinQ/LangBot)](https://github.com/RockChinQ/LangBot)
+    *   该平台目前可以使dify接入QQ 个人号、QQ 官方机器人、企业微信、飞书、Discord、个人微信，具体文档请看其官方文档。
+    
 **贡献**
 
 欢迎提交 Issue 和 Pull Request，一起完善本项目！
