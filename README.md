@@ -122,7 +122,7 @@
 
 **推荐使用**：
 
-    *    [(https://github.com/RockChinQ/LangBot)](https://github.com/RockChinQ/LangBot)
+    *    https://github.com/RockChinQ/LangBot
     
     *   该平台目前可以使dify接入QQ 个人号、QQ 官方机器人、企业微信、飞书、Discord、个人微信，具体文档请看其官方文档。
     
