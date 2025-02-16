@@ -119,9 +119,8 @@
     *   
     *   docker/docker-compose.yaml
     *   api/services/feature_service.py
-    *   api/core/model_manager.py 
-
-  
+    *   api/core/model_manager.py
+    *   
     *   gemini破限则需要修改：
     *   
     *   api/core/model_runtime/model_providers/google/llm/llm.py
