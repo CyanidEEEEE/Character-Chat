@@ -124,7 +124,6 @@
     *   gemini破限则需要修改：
     *   
     *   api/core/model_runtime/model_providers/google/llm/llm.py
-        ```
 
 ### 五、配置 Telegram Bot
 
