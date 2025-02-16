@@ -29,8 +29,8 @@
 
 2.  **文档嵌入、Rerank 和语音模型 API Key**：
     *   可选方案：
-        *   **Ollama**：本地搭建，提供更强的控制力和隐私性。
-        *   **硅基流动**：目前提供免费 API，方便快捷。注册地址：[https://siliconflow.cn/zh-cn/](https://siliconflow.cn/zh-cn/)。
+        *   **Ollama**：本地搭建，提供更强的控制力和隐私性，4060及以上可选，主要是使用文档嵌入模型，目前本地使用推荐gte-qwen2-1.5b-instruct。
+        *   **硅基流动**：目前提供免费 API，方便快捷，主要是使用Rerank 和语音模型，如果自身机器性能较差也可用其免费的文档嵌入模型。注册地址：[https://siliconflow.cn/zh-cn/](https://siliconflow.cn/zh-cn/)。
     * 语音转文字为可选
 
 3.  **Dify 运行环境**：
