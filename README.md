@@ -116,14 +116,18 @@
 
 5.  **进阶设置**：
     1.  **如果想免费使用dify的负载均衡功能，也就是同时使用多个key轮询保证服务，请自行修改如下文件：**
-    *   
+
+      
     *   docker/docker-compose.yaml
     *   api/services/feature_service.py
     *   api/core/model_manager.py
-    *   
+
+      
     2.  **如果想给gemini破限则需要修改：**
-    *   
+
+    
     *   api/core/model_runtime/model_providers/google/llm/llm.py
+
 
 ### 五、配置 Telegram Bot
 
