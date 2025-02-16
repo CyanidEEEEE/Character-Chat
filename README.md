@@ -115,7 +115,7 @@
         后续会给你一大段视觉小说提取出来的文本以及一些剧情的归纳和总结，他是根据别人的提问从知识库抽出的，所以不一定完整，有不同的角色说的话和背景描写，这个故事是一个有多条线路不同时间点的复杂故事，给你的文本结构是前缀-角色:具体文本，前缀就是表示出现的场景或者线路，比如driver_Wilson就是选了Wilson当司机的线路发生的事情，然后day1就是第一天发生的事情，Day13AB就是AB线路共通剧情，总共有ABCDFGP七条线路，A_R这个标识表示的就是P线路，我没有详细解释的前缀你可以根据词义自己理解一下，然后-后面跟随的含义是，bac就是背景描写，ext是上一段描写或者对话的延续，dra是Orlando，bea是Dean，boa是Roswell，wol是Tyson，lio是Hoss，cro是Sal，mc或者dav就是Dave，其他的你可以自己分析判断一下。
 
 5.  **进阶设置**：
-    1.  **如果想免费使用dify的负载均衡功能，也就是同时使用多个key轮询保证服务，请自行修改如下文件：**
+1.  **如果想免费使用dify的负载均衡功能，也就是同时使用多个key轮询保证服务，请自行修改如下文件：**
 
       
     *   docker/docker-compose.yaml
@@ -123,7 +123,7 @@
     *   api/core/model_manager.py
 
       
-    2.  **如果想给gemini破限则需要修改：**
+2.  **如果想给gemini破限则需要修改：**
 
     
     *   api/core/model_runtime/model_providers/google/llm/llm.py
